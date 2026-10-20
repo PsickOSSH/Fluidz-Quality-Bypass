@@ -1,0 +1,5 @@
+ffprobe.exe
+ffmpeg.exe
+build/
+dist/
+.git/
